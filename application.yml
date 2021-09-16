@@ -11,5 +11,4 @@ spring:
 spring:
   profiles: test #测试环境
   application:
-    name: microservicecloud-config-icyoyo-test
- 	
+    name: microservicecloud-config-icyoyo-test	
